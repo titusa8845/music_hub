@@ -1,0 +1,7 @@
+{
+  "name": "Online Sound Lab v7.1",
+  "description": "A comprehensive web audio physics laboratory featuring oscilloscope, frequency analysis, Doppler effect simulation, and virtual instruments (Violin, Recorder).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
